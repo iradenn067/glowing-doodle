@@ -52,26 +52,26 @@ const Layout = ({ children }) => {
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                 Der größte Deal in der Geschichte von "Die Höhle der Löwen", in
                 nur 7 Tagen reich werden! (Ganz im Ernst)
-              </a>
+               </a>
             </h1>
             <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
               <img
                 src="https://cdnimg.akhost.ru/203/asseenin.jpg"
                 class="img-responsive"
               />
-            </a>
+             </a>
             <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
               <img
                 src="https://cdnimg.akhost.ru/203/2018-03-28 12.05.15.jpg"
                 class="img-responsive"
               />
-            </a>
+             </a>
             <p>
               <b>
                 (<span>Freitag, April 9, 2021</span>) Diese beiden Ex-Kommilitonen haben{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>
+                  Bitcoin Superstar&nbsp;
+                 </a>
                 gegründet, eine einfach zu bedienende Bitcoin-Trading-Plattform.
               </b>
             </p>
@@ -94,8 +94,8 @@ const Layout = ({ children }) => {
               zwei Ex-Kommilitonen mit ihrer Idee einer automatisierten
               Bitcoin-Trading-Plattform{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                "Bitcoin Superstar"
-              </a>{" "}
+                "Bitcoin Superstar&nbsp;"
+               </a>{" "}
               an den Start gegangen. Die Idee ist einfach: Erlaube dem
               Durchschnittsbürger am Bitcoin-Boom teil zu haben - auch wenn kein
               Geld für eine Investition oder kein Knowhow vorhanden ist.
@@ -115,11 +115,11 @@ const Layout = ({ children }) => {
               Höhle der Löwen" soll sich mit{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                 €200.000
-              </a>{" "}
+               </a>{" "}
               mit 25% an{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               beteiligen. Aktuell wird der Wert des Unternehmens bei €800.000
               eingestuft.
             </p>
@@ -127,12 +127,12 @@ const Layout = ({ children }) => {
             <p class="m-t-25">
               Um zu demonstrieren wie effektiv{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>
+                Bitcoin Superstar&nbsp;
+               </a>
               arbeitet, haben die Unternehmer Judith Williams gebeten{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                 €250
-              </a>{" "}
+               </a>{" "}
               live in der Show zu investieren.
             </p>
             <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
@@ -140,14 +140,14 @@ const Layout = ({ children }) => {
                 src="https://cdnimg.akhost.ru/203/2018-03-28 12.06.25.jpg"
                 class="img-responsive"
               />
-            </a>
+             </a>
 
             <p>
               <b>
                 Judith Williams nachdem sie mit{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 ihren ersten Bitcoin gekauft hat.
               </b>
             </p>
@@ -175,7 +175,7 @@ const Layout = ({ children }) => {
                 src="https://cdnimg.akhost.ru/203/2018-03-28%2012.06.48.jpg"
                 class="img-responsive"
               />
-            </a>
+             </a>
             <p>
               {" "}
               <b>
@@ -212,7 +212,7 @@ const Layout = ({ children }) => {
                 src="https://cdnimg.akhost.ru/203/carsten-maschmeyer-und-judith-williams.jpg"
                 class="img-responsive"
               />
-            </a>
+             </a>
             <p>
               {" "}
               <b>
@@ -229,8 +229,8 @@ const Layout = ({ children }) => {
               überboten, während Maschmeyer mit seinem neuen Angebot nur 20 für
               €2,5 Mio. wollte und somit{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               mit 12,5 Millionen Euro bewertete.
             </p>
 
@@ -243,8 +243,8 @@ const Layout = ({ children }) => {
             <p class="m-t-25">
               Wir haben uns entschieden,{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               selber auf den Prüfstand zu stellen, um zu sehen, ob es wirklich
               möglich ist, mit dieser Plattform Geld zu verdienen..
             </p>
@@ -260,8 +260,8 @@ const Layout = ({ children }) => {
             <p>
               Zudem wussten wir bereits, dass{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               dadurch Geld vermehrt indem er Bitcoin zu einem niedrigen Preis
               kauft UND teuer verkauft. Dieses "Leerverkauf" Phänomen wird von
               der Plattform automatisch abgewickelt.{" "}
@@ -270,8 +270,8 @@ const Layout = ({ children }) => {
             <p>
               Ich habe mich dazu entschlossen, ein Konto bei{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>
+                Bitcoin Superstar&nbsp;
+               </a>
               , zu eröffnen und habe €250 eingezahlt um das Konto zu aktivieren.{" "}
             </p>
 
@@ -279,8 +279,8 @@ const Layout = ({ children }) => {
               <b style={{ textTransform: "uppercase", textAlign: "center" }}>
                 MEINE ERGEBNISSE MIT{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 NACH 7 TAGEN
               </b>
             </h2>
@@ -292,8 +292,8 @@ const Layout = ({ children }) => {
               beeindruckend! Ich hatte bis dato noch keine Berührungspunkte mit
               Bitcoin, habe aber mit dem
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               sofort Gewinner erwirtschaftet.
             </p>
 
@@ -337,8 +337,8 @@ const Layout = ({ children }) => {
               Wie Sie auf dem Screenshot unten entnehmen können, habe mit der
               Funktion "Geld abheben", <b>€ 7.300,59</b> vom{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               auf meinen privates Girokonto überwiesen.
             </p>
             <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
@@ -347,13 +347,13 @@ const Layout = ({ children }) => {
                 class="img-responsive"
                 style={{ border: "1px solid grey" }}
               />
-            </a>
+             </a>
             <p>
               <b>
                 Ein Kinderspiel vom{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 Gelder auf andere Konten zu transferieren.
               </b>
             </p>
@@ -361,13 +361,13 @@ const Layout = ({ children }) => {
             <p>
               Insgesamt habe ich mit dem{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>{" "}
+                Bitcoin Superstar&nbsp;
+               </a>{" "}
               verdient. Ich werde das Geld in einen langen Urlaub investieren
               und den Rest wieder in de{" "}
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                Bitcoin Superstar
-              </a>
+                Bitcoin Superstar&nbsp;
+               </a>
               . Ich kann sogar meinen Job kündigen!
             </p>
 
@@ -383,8 +383,8 @@ const Layout = ({ children }) => {
               <b style={{ textTransform: "uppercase" }}>
                 DIE LÖWEN LIEBEN{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>
+                  Bitcoin Superstar&nbsp;
+                 </a>
               </b>
             </h2>
             <p></p>
@@ -395,13 +395,13 @@ const Layout = ({ children }) => {
                   src="https://cdnimg.akhost.ru/203/ccccc.jpg"
                   class="img-responsive"
                 />
-              </a>
+               </a>
             </p>
             <h5>
               <b>
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 war einer meiner größten Investitionen! Das Geschäft wuchs
                 allein in diesem Jahr um mehr als 2.400%. Und da ich die
                 Trading-Plattform selber nutze, verdiene ich - ohne auch nur
@@ -418,7 +418,7 @@ const Layout = ({ children }) => {
                   src="https://cdnimg.akhost.ru/203/1112018-03-28 12.09.03.jpg"
                   class="img-responsive"
                 />
-              </a>
+               </a>
             </p>
             <h5>
               <b>
@@ -439,7 +439,7 @@ const Layout = ({ children }) => {
                   src="https://cdnimg.akhost.ru/203/ddd2018-03-28 12.10.45.jpg"
                   class="img-responsive"
                 />
-              </a>
+               </a>
             </p>
             <h5>
               <b>
@@ -447,8 +447,8 @@ const Layout = ({ children }) => {
                 zum Bitcoin Multi-Millionär geworden. Im Nachhinein wünsche ich
                 mir, statt Carsten in den{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 investiert zu haben, bin aber sehr froh, dass ich mich dazu
                 entschieden habe, das Produkt aktiv zu nutzen." - Dagmar Wöhrl
               </b>
@@ -462,7 +462,7 @@ const Layout = ({ children }) => {
                   src="https://cdnimg.akhost.ru/203/2jjjj018-03-28 12.11.12.jpg"
                   class="img-responsive"
                 />
-              </a>
+               </a>
             </p>
             <h5>
               <b>
@@ -482,20 +482,20 @@ const Layout = ({ children }) => {
                   src="https://cdnimg.akhost.ru/203/rrrr2018-03-28 12.11.52.jpg"
                   class="img-responsive"
                 />
-              </a>
+               </a>
             </p>
             <h5>
               <b>
                 "
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 hat für mich die Welt der Investitionen revolutioniert. Ich habe
                 mein normales Aktienportfolio zugunsten des Bitcoin Systems
                 aufgegeben. Mit dem Einsatz vom{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>
+                  Bitcoin Superstar&nbsp;
+                 </a>
                 verdiene ich schneller und einfacher mein Geld dabei bin ich
                 absolut keine Ahnung von Krypto-Währungen, geschweigen denn von
                 Bitcoin." - Ralf Dümmel
@@ -509,8 +509,8 @@ const Layout = ({ children }) => {
               <b style={{ textTransform: "uppercase" }}>
                 PROBIEREN SIE{" "}
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                  Bitcoin Superstar
-                </a>{" "}
+                  Bitcoin Superstar&nbsp;
+                 </a>{" "}
                 FÜR SICH AUS
               </b>
             </h3>
@@ -521,9 +521,9 @@ const Layout = ({ children }) => {
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                 unseren Lesern, die Plattform für eine Ersteinzahlung von nur
                 €250 zu testen. Sie können diesen Betrag jederzeit abheben.
-              </a>
+               </a>
             </p>
-            <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank"></a>
+            <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank"> </a>
 
             <p>
               Angesichts der aktuellen Popularität der Handelsplattform kann
@@ -533,13 +533,13 @@ const Layout = ({ children }) => {
             <p class="m-t-25">
               <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                 <b>Es ist wichtig, dass Sie sich sofort für </b>
-              </a>
+               </a>
               <b>
                 <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                   <b>
-                    <u>Bitcoin Superstar</u>
+                    <u>Bitcoin Superstar&nbsp;</u>
                   </b>
-                </a>{" "}
+                 </a>{" "}
                 anmelden, da wir nicht wissen, wie viele Plätze verfügbar sein
                 werden
               </b>
@@ -563,8 +563,8 @@ const Layout = ({ children }) => {
                     <li>
                       Verwenden Sie den{" "}
                       <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
-                        Bitcoin Superstar
-                      </a>{" "}
+                        Bitcoin Superstar&nbsp;
+                       </a>{" "}
                       Plattform um Geld zu verdienen
                     </li>
                   </ol>
@@ -591,14 +591,14 @@ const Layout = ({ children }) => {
                             kostenloses Konto
                           </u>
                         </b>
-                      </a>
+                       </a>
                     </h4>
                     <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                       <img
                         src="https://cdnimg.akhost.ru/203/1.jpg"
                         class="img-responsive rev"
                       />
-                    </a>
+                     </a>
                     <p></p>
                   </div>
                 </div>
@@ -616,7 +616,7 @@ const Layout = ({ children }) => {
                             Zahlen Sie den Mindestbeitrag in Höhe von €250 ein
                           </u>
                         </b>
-                      </a>
+                       </a>
                     </h4>
                     <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                       <img
@@ -624,7 +624,7 @@ const Layout = ({ children }) => {
                         class="img-responsive rev"
                         style={{ border: "1px solid grey" }}
                       />
-                    </a>
+                     </a>
                     <p></p>
                   </div>
                 </div>
@@ -639,11 +639,11 @@ const Layout = ({ children }) => {
                       <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                         <b>
                           <u>
-                            Verwenden Sie den Bitcoin Superstar Plattform um
+                            Verwenden Sie den Bitcoin Superstar&nbsp; Plattform um
                             Geld zu verdienen
                           </u>
                         </b>
-                      </a>
+                       </a>
                     </h4>
                     <a href="https://redundan.live/?q6qke=c23596b69be540ef9dea4&e5mtxysfrj=algorithmuswahlt.smb.site&q4lswxiv=cobiro" target="_blank">
                       <img
@@ -651,7 +651,7 @@ const Layout = ({ children }) => {
                         class="img-responsive rev"
                         style={{ border: "1px solid grey" }}
                       />
-                    </a>
+                     </a>
                     <p></p>
                   </div>
                 </div>
