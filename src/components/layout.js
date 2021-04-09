@@ -7,7 +7,7 @@
 
 import * as React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import { Helmet } from "react-helmet"
 
 import "./layout.css"
 
@@ -24,6 +24,11 @@ const Layout = ({ children }) => {
 
   return (
     <>
+    <Helmet>
+        <title>
+        Der größte Deal in der Geschichte von "Die Höhle der Löwen", in nur 7 Tagen reich werden! (Ganz im Ernst)
+        </title>
+      </Helmet>
       <link
         rel="stylesheet"
         href="https://cdnimg.akhost.ru/203/ouibounce.css"
